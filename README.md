@@ -4,13 +4,11 @@
   </a>
 </div>
 
----
-
 <br>
+
 <p>
   Atualmente, estou participando do curso de Desenvolvimento Front-End com Angular, ofertado pelo SCTec. Sou formada em Medicina Veterinária e apaixonada por tecnologia!
 </p>
-<br>
 
 ---
 
@@ -28,8 +26,6 @@
 </div>
 
 ---
-
-<br>
 <p>
   <a href="mailto:suyanne.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=purple" alt="Gmail">
