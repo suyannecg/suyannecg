@@ -17,8 +17,8 @@
 ---
 <br>
 <div align="center">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=suyannecg&show_icons=true&theme=jolly&include_all_commits=true&locale=pt-br">
-  <img  alt="Tecnologias" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyannecg&theme=jolly&layout=normal&custom_title=Tecnologias&langs_count=3">
+  <img alt="GitHub Stats" height="180" src="https://github-stats-extended.vercel.app/api?username=suyannecg&show_icons=true&theme=jolly&include_all_commits=true&locale=pt-br">
+  <img alt="Tecnologias" height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=suyannecg&theme=jolly&layout=normal&custom_title=Tecnologias&langs_count=3">
 </div>
 
 <br>
